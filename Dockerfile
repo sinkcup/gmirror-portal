@@ -1,0 +1,8 @@
+FROM sinkcup/nginx-mkdocs:0.1.0
+MAINTAINER sinkcup <sinkcup@163.com>
+
+ADD . /usr/share/nginx/html/gmirror-portal
+RUN cd /usr/share/nginx/html/gmirror-portal/ && \
+  mkdocs build
+RUN rm -f /etc/nginx/conf.d/*
+ADD nginx/conf.d /etc/nginx/conf.d/

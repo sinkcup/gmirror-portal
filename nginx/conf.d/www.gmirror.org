@@ -1,0 +1,6 @@
+server {
+    listen       80;
+    listen       [::]:80;
+    server_name  www.gmirror.org;
+    rewrite      ^/(.*)$ http://gmirror.org/$1 permanent;
+}
