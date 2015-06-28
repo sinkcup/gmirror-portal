@@ -2,7 +2,7 @@ site_name: gmirror.org
 pages:
 - 首页: index.md
 - 关于我们: about.md
-theme: flatly
+theme: readthedocs
 repo_url: https://github.com/sinkcup/gmirror
 site_favicon: favicon.ico
 google_analytics: ['UA-17660684-8', 'gmirror.org']
