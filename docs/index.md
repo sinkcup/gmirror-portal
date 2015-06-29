@@ -39,3 +39,19 @@ Platform | Package | Size | SHA-1 Checksum
 Linux    | [android-studio-ide-141.1980579-linux.zip](http://7xjxoo.dl1.z0.glb.clouddn.com/dl/android/studio/ide-zips/1.2.2.0/android-studio-ide-141.1980579-linux.zip) | 247M | 1fcb226bcf71760296b07dc0db74216563ce83f7
 Mac OS X | [android-studio-ide-141.1980579-mac.dmg](http://7xjxoo.dl1.z0.glb.clouddn.com/dl/android/studio/install/1.2.2.0/android-studio-ide-141.1980579-mac.dmg) | 249M | 811a868958f8799a1c86a3acfab0fc5dc8de2f41
 Windows  | [android-studio-ide-141.1980579-windows.exe](http://7xjxoo.dl1.z0.glb.clouddn.com/dl/android/studio/install/1.2.2.0/android-studio-ide-141.1980579-windows.exe) | 233M | ae09797db2537afb572a00b7eacc292bb66d539e
+
+## Android NDK
+
+The Native Development Kit (NDK) is a set of tools that allow you to leverage C and C++ code in your Android apps.
+
+Platform | Package | Size | SHA-1 Checksum
+---------|---------|------|---------------
+Linux 64-bit (x86) | [android-ndk-r10e-linux-x86_64.bin](http://7xjxoo.dl1.z0.glb.clouddn.com/android/ndk/android-ndk-r10e-linux-x86_64.bin) | 383M | 19af543b068bdb7f27787c2bc69aba7f
+Mac OS X 64-bit | [android-ndk-r10e-darwin-x86_64.bin](http://7xjxoo.dl1.z0.glb.clouddn.com/android/ndk/android-ndk-r10e-darwin-x86_64.bin) | 371M | 2cb8893a5701603519d38a7e04c50e81
+
+The NDK package is a self-extracting binary. Install On Linux and Mac OS X (Darwin):
+
+```
+ndk$ chmod a+x android-ndk-r10e-darwin-x86_64.bin
+ndk$ ./android-ndk-r10e-darwin-x86_64.bin
+```
