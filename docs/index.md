@@ -6,10 +6,10 @@
 
 ### 下载Chrome（Linux版）
 
- * [google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/linux/direct/google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
- * google-chrome-stable\_current\_i386.deb （适用于 Debian/Ubuntu i386）
- * [google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/linux/direct/google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
- * google-chrome-stable\_current\_i386.rpm（适用于 Fedora/openSUSE i386）
+ * [43.0.2357.132-1\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/linux/direct/43.0.2357.132-1\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
+ * 43.0.2357.132-1\_google-chrome-stable\_current\_i386.deb （适用于 Debian/Ubuntu i386）
+ * [43.0.2357.132-1\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/linux/direct/43.0.2357.132-1\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
+ * 43.0.2357.132-1\_google-chrome-stable\_current\_i386.rpm（适用于 Fedora/openSUSE i386）
 
 ### 下载Chrome（Mac版）
 
@@ -17,7 +17,7 @@
 
 ### 下载Chrome（Windows版）
 
- * [ChromeStandaloneSetup64.exe](http://dl.gmirror.org/windows/direct/ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
+ * [43.0.2357.132\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/6AD397CD1E451F0B/43.0.2357.132\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
  * ChromeStandaloneSetup.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
