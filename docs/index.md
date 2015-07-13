@@ -15,7 +15,7 @@
 
  * [googlechrome.dmg](http://dl.gmirror.org/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
-### 下载Chrome（Windows版）
+### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于所有用户帐户的备用安装程序](http://www.google.com/chrome/eula.html?system=true&standalone=1)
 
