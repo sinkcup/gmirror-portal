@@ -17,8 +17,15 @@
 
 ### 下载Chrome（Windows版）
 
- * [43.0.2357.132\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/6AD397CD1E451F0B/43.0.2357.132\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
- * ChromeStandaloneSetup.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于所有用户帐户的备用安装程序](http://www.google.com/chrome/eula.html?system=true&standalone=1)
+
+ * [43.0.2357.132\_needsadmin\_ChromeStandaloneSetup64.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_needsadmin\_ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
+ * 43.0.2357.132\_needsadmin\_ChromeStandaloneSetup.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+
+没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于单个用户帐户的备用安装程序](http://www.google.com/chrome/eula.html?standalone=1)
+
+ * [43.0.2357.132\_ChromeStandaloneSetup64.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
+ * 43.0.2357.132\_ChromeStandaloneSetup.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
@@ -26,9 +33,9 @@ These packages provide the basic SDK tools for app development, without an IDE.
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-sdk\_r24.3.3-linux.tgz](http://dl.gmirror.org/android/android-sdk_r24.3.3-linux.tgz) | 295M | cd4cab76c2e3d926b3495c26ec56c831ba77d0d0
-Mac OS X | [android-sdk\_r24.3.3-macosx.zip](http://dl.gmirror.org/android/android-sdk_r24.3.3-macosx.zip) | 94M | 41f0f3e76d6868018740e654aefb04fd765c357d
-Windows  | [installer\_r24.3.3-windows.exe](http://dl.gmirror.org/android/installer_r24.3.3-windows.exe) | 134M | bbdae40a7665e55b3cdb1fbae865986e6cd3df14
+Linux    | [android-sdk\_r24.3.3-linux.tgz](http://dl.gmirror.org/android/android-sdk\_r24.3.3-linux.tgz) | 295M | cd4cab76c2e3d926b3495c26ec56c831ba77d0d0
+Mac OS X | [android-sdk\_r24.3.3-macosx.zip](http://dl.gmirror.org/android/android-sdk\_r24.3.3-macosx.zip) | 94M | 41f0f3e76d6868018740e654aefb04fd765c357d
+Windows  | [installer\_r24.3.3-windows.exe](http://dl.gmirror.org/android/installer\_r24.3.3-windows.exe) | 134M | bbdae40a7665e55b3cdb1fbae865986e6cd3df14
 
 ## Android Studio
 
@@ -46,8 +53,8 @@ The Native Development Kit (NDK) is a set of tools that allow you to leverage C 
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux 64-bit (x86) | [android-ndk-r10e-linux-x86_64.bin](http://dl.gmirror.org/android/ndk/android-ndk-r10e-linux-x86_64.bin) | 383M | 19af543b068bdb7f27787c2bc69aba7f
-Mac OS X 64-bit | [android-ndk-r10e-darwin-x86_64.bin](http://dl.gmirror.org/android/ndk/android-ndk-r10e-darwin-x86_64.bin) | 371M | 2cb8893a5701603519d38a7e04c50e81
+Linux 64-bit (x86) | [android-ndk-r10e-linux-x86\_64.bin](http://dl.gmirror.org/android/ndk/android-ndk-r10e-linux-x86\_64.bin) | 383M | 19af543b068bdb7f27787c2bc69aba7f
+Mac OS X 64-bit | [android-ndk-r10e-darwin-x86\_64.bin](http://dl.gmirror.org/android/ndk/android-ndk-r10e-darwin-x86\_64.bin) | 371M | 2cb8893a5701603519d38a7e04c50e81
 
 The NDK package is a self-extracting binary. Install On Linux and Mac OS X (Darwin):
 
