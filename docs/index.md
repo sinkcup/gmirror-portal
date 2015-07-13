@@ -17,15 +17,15 @@
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
-如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于所有用户帐户的备用安装程序](http://www.google.com/chrome/eula.html?system=true&standalone=1)
+如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：[为您的组织部署和管理 Chrome](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)。
 
- * [43.0.2357.132\_needsadmin\_ChromeStandaloneSetup64.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_needsadmin\_ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
- * 43.0.2357.132\_needsadmin\_ChromeStandaloneSetup.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [43.0.2357.132\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/43.0.2357.132\_needsadmin\_ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
+ * 43.0.2357.132\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
-没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于单个用户帐户的备用安装程序](http://www.google.com/chrome/eula.html?standalone=1)
+没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于单个用户帐户的备用安装程序](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)。
 
- * [43.0.2357.132\_ChromeStandaloneSetup64.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
- * 43.0.2357.132\_ChromeStandaloneSetup.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [43.0.2357.132\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
+ * 43.0.2357.132\_chrome\_installer.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
