@@ -63,6 +63,34 @@ ndk$ chmod a+x android-ndk-r10e-darwin-x86_64.bin
 ndk$ ./android-ndk-r10e-darwin-x86_64.bin
 ```
 
+## VirtualBox
+
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+
+ * Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.0-101573~Ubuntu~trusty\_amd64.deb)
+ * Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.0_101573_fedora22-1.x86_64.rpm)
+ * VirtualBox 5.0 for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.0-101573-OSX.dmg)
+
+## JDK
+
+The JDK is a development environment for building applications, applets, and components using the Java programming language.
+
+Product / File Description | File Size | Download
+---------------------------|-----------|---------
+Linux x64                  | 165M     | [jdk-8u45-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u45-linux-x64.tar.gz)
+Linux x64 RPM              | 146M     | [jdk-8u45-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u45-linux-x64.rpm)
+Mac OS X （版本 10.7.3 和更高版本） | 222M | [jdk-8u45-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u45-macosx-x64.dmg)
+
+## JRE
+
+Java 技术让您可以在安全的计算环境下工作和游戏。升级到最新的 Java 版本可以提高系统安全性，因为旧版本不包括最新的安全更新。
+
+Product / File Description | File Size | Download
+---------------------------|-----------|---------
+Linux x64                  | 61M     | [jre-8u45-linux-x64.tar.gz](http://dl.gmirror.org/java/jre-8u45-linux-x64.tar.gz)
+Linux x64 RPM              | 40M     | [jre-8u45-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u45-linux-x64.rpm)
+Mac OS X （版本 10.7.3 和更高版本） | 58M | [jre-8u45-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u45-macosx-x64.dmg)
+
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="index" data-title="开发者常用软件国内镜像下载" data-url="http://gmirror.org/"></div>
 <!-- 多说评论框 end -->
