@@ -17,12 +17,12 @@
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
-如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：[为您的组织部署和管理 Chrome](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)。
+如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [43.0.2357.132\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/43.0.2357.132\_needsadmin\_ChromeStandaloneSetup64.exe) （适用于 Windows 8/7 64-bit）
+ * [43.0.2357.132\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/43.0.2357.132\_googlechromestandaloneenterprise64.msi) （适用于 Windows 8/7 64-bit）
  * 43.0.2357.132\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
-没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：[用于单个用户帐户的备用安装程序](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)。
+没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
  * [43.0.2357.132\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
  * 43.0.2357.132\_chrome\_installer.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
@@ -67,9 +67,10 @@ ndk$ ./android-ndk-r10e-darwin-x86_64.bin
 
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
- * Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.0-101573~Ubuntu~trusty\_amd64.deb)
- * Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.0_101573_fedora22-1.x86_64.rpm)
- * VirtualBox 5.0 for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.0-101573-OSX.dmg)
+ * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.0-101573~Ubuntu~trusty\_amd64.deb)
+ * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.0_101573_fedora22-1.x86_64.rpm)
+ * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.0-101573-OSX.dmg)
+ * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.0.vbox-extpack)
 
 ## JDK
 
@@ -77,9 +78,9 @@ The JDK is a development environment for building applications, applets, and com
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 165M     | [jdk-8u45-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u45-linux-x64.tar.gz)
-Linux x64 RPM              | 146M     | [jdk-8u45-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u45-linux-x64.rpm)
-Mac OS X （版本 10.7.3 和更高版本） | 222M | [jdk-8u45-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u45-macosx-x64.dmg)
+Linux x64                  | 165M     | [jdk-8u51-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u51-linux-x64.tar.gz)
+Linux x64 RPM              | 146M     | [jdk-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u51-linux-x64.rpm)
+Mac OS X （版本 10.7.3 和更高版本） | 222M | [jdk-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u51-macosx-x64.dmg)
 
 ## JRE
 
