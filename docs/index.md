@@ -65,7 +65,7 @@ ndk$ ./android-ndk-r10e-darwin-x86_64.bin
 
 ## VirtualBox
 
-VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0 :
 
  * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.0-101573~Ubuntu~trusty\_amd64.deb)
  * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.0_101573_fedora22-1.x86_64.rpm)
@@ -74,23 +74,25 @@ VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterp
 
 ## JDK
 
-The JDK is a development environment for building applications, applets, and components using the Java programming language.
+软件开发人员：JDK (Java SE Development Kit)。面向 Java 开发人员。包括一个完整的 JRE 以及用于开发、调试和监视 Java 应用的工具。
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 165M     | [jdk-8u51-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u51-linux-x64.tar.gz)
-Linux x64 RPM              | 146M     | [jdk-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u51-linux-x64.rpm)
-Mac OS X （版本 10.7.3 和更高版本） | 222M | [jdk-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u51-macosx-x64.dmg)
+Linux x64                  | 165M      | [jdk-8u51-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u51-linux-x64.tar.gz)
+Linux x64 RPM              | 146M      | [jdk-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u51-linux-x64.rpm)
+Mac OS X x64               | 222M      | [jdk-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u51-macosx-x64.dmg)
+Windows x64                | 181M      | [jdk-8u51-windows-x64.exe](http://dl.gmirror.org/java/jdk-8u51-windows-x64.exe)
 
 ## JRE
 
-Java 技术让您可以在安全的计算环境下工作和游戏。升级到最新的 Java 版本可以提高系统安全性，因为旧版本不包括最新的安全更新。
+在桌面上运行 Java 的最终用户：JRE：(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 61M     | [jre-8u45-linux-x64.tar.gz](http://dl.gmirror.org/java/jre-8u45-linux-x64.tar.gz)
-Linux x64 RPM              | 40M     | [jre-8u45-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u45-linux-x64.rpm)
-Mac OS X （版本 10.7.3 和更高版本） | 58M | [jre-8u45-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u45-macosx-x64.dmg)
+Linux x64                  | 61M       | [jre-8u51-linux-x64.tar.gz](http://dl.gmirror.org/java/jre-8u51-linux-x64.tar.gz)
+Linux x64 RPM              | 40M       | [jre-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u51-linux-x64.rpm)
+Mac OS X x64               | 58M       | [jre-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u51-macosx-x64.dmg)
+Windows x64                | 41M       | [jre-8u51-windows-x64.exe](http://dl.gmirror.org/java/jre-8u51-windows-x64.exe)
 
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="index" data-title="开发者常用软件国内镜像下载" data-url="http://gmirror.org/"></div>
