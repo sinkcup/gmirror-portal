@@ -6,26 +6,26 @@
 
 ### 下载Chrome（Linux版）
 
- * [43.0.2357.132-1\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/linux/direct/43.0.2357.132-1\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
- * 43.0.2357.132-1\_google-chrome-stable\_current\_i386.deb （适用于 Debian/Ubuntu i386）
- * [43.0.2357.132-1\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/linux/direct/43.0.2357.132-1\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
- * 43.0.2357.132-1\_google-chrome-stable\_current\_i386.rpm（适用于 Fedora/openSUSE i386）
+ * [44.0.2403.89\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/44.0.2403.89\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
+ * 44.0.2403.89\_google-chrome-stable\_current\_i386.deb （适用于 Debian/Ubuntu i386）
+ * [44.0.2403.89\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/44.0.2403.89\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
+ * 44.0.2403.89\_google-chrome-stable\_current\_i386.rpm（适用于 Fedora/openSUSE i386）
 
 ### 下载Chrome（Mac版）
 
- * [googlechrome.dmg](http://dl.gmirror.org/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
+ * [44.0.2403.89\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/44.0.2403.89\_googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [43.0.2357.132\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/43.0.2357.132\_googlechromestandaloneenterprise64.msi) （适用于 Windows 8/7 64-bit）
- * 43.0.2357.132\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [44.0.2403.89\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/44.0.2403.89\_googlechromestandaloneenterprise64.msi) （适用于 Windows 8/7 64-bit）
+ * 44.0.2403.89\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
- * [43.0.2357.132\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/43.0.2357.132\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
- * 43.0.2357.132\_chrome\_installer.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [44.0.2403.89\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/44.0.2403.89\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
+ * 44.0.2403.89\_chrome\_installer.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
@@ -43,9 +43,9 @@ Select a specific Android Studio package for your platform.
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-studio-ide-141.1980579-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.2.2.0/android-studio-ide-141.1980579-linux.zip) | 247M | 1fcb226bcf71760296b07dc0db74216563ce83f7
-Mac OS X | [android-studio-ide-141.1980579-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.2.2.0/android-studio-ide-141.1980579-mac.dmg) | 249M | 811a868958f8799a1c86a3acfab0fc5dc8de2f41
-Windows  | [android-studio-ide-141.1980579-windows.exe](http://dl.gmirror.org/dl/android/studio/install/1.2.2.0/android-studio-ide-141.1980579-windows.exe) | 233M | ae09797db2537afb572a00b7eacc292bb66d539e
+Linux    | [android-studio-ide-141.1980579-linux.zip](http://dl.gmirror.org/android/studio/1.2.2.0/android-studio-ide-141.1980579-linux.zip) | 247M | 1fcb226bcf71760296b07dc0db74216563ce83f7
+Mac OS X | [android-studio-ide-141.1980579-mac.dmg](http://dl.gmirror.org/android/studio/1.2.2.0/android-studio-ide-141.1980579-mac.dmg) | 249M | 811a868958f8799a1c86a3acfab0fc5dc8de2f41
+Windows  | [android-studio-ide-141.1980579-windows.exe](http://dl.gmirror.org/android/studio/1.2.2.0/android-studio-ide-141.1980579-windows.exe) | 233M | ae09797db2537afb572a00b7eacc292bb66d539e
 
 ## Android NDK
 
@@ -70,7 +70,7 @@ VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterp
  * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.0-101573~Ubuntu~trusty\_amd64.deb)
  * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.0_101573_fedora22-1.x86_64.rpm)
  * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.0-101573-OSX.dmg)
- * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.0.vbox-extpack)
+ * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.0-101573.vbox-extpack)
 
 ## JDK
 
