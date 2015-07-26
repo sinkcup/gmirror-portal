@@ -94,19 +94,10 @@ Linux x64 RPM              | 40M       | [jre-8u51-linux-x64.rpm](http://dl.gmir
 Mac OS X x64               | 58M       | [jre-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u51-macosx-x64.dmg)
 Windows x64                | 41M       | [jre-8u51-windows-x64.exe](http://dl.gmirror.org/java/jre-8u51-windows-x64.exe)
 
-<!-- 多说评论框 start -->
-<div class="ds-thread" data-thread-key="index" data-title="开发者常用软件国内镜像下载" data-url="http://gmirror.org/"></div>
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"gmirror"};
-(function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-     || document.getElementsByTagName('body')[0]).appendChild(ds);
-})();
+<script type="text/javascript" id="wumiiComments">
+    var wumiiPermaLink = "http://gmirror.org/"; //请用代码生成文章永久的链接
+    var wumiiTitle = "开发者常用软件国内镜像下载"; //请用代码生成文章标题
+    var wumiiSitePrefix = "http://gmirror.org/"; //安装无觅评论插件的网站的域名，如果是放在子域名上，请提供子域名，如"http://blog.wumii.com"。如果这里填写的域名不对，请自行改正。
+    var wumiiCommentParams = "&pf=JAVASCRIPT";
 </script>
-<!-- 多说公共JS代码 end -->
+<script src="http://widget.wumii.cn/ext/cw/widget"></script>
