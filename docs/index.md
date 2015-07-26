@@ -94,10 +94,7 @@ Linux x64 RPM              | 40M       | [jre-8u51-linux-x64.rpm](http://dl.gmir
 Mac OS X x64               | 58M       | [jre-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u51-macosx-x64.dmg)
 Windows x64                | 41M       | [jre-8u51-windows-x64.exe](http://dl.gmirror.org/java/jre-8u51-windows-x64.exe)
 
-<script type="text/javascript" id="wumiiComments">
-    var wumiiPermaLink = "http://gmirror.org/"; //请用代码生成文章永久的链接
-    var wumiiTitle = "开发者常用软件国内镜像下载"; //请用代码生成文章标题
-    var wumiiSitePrefix = "http://gmirror.org/"; //安装无觅评论插件的网站的域名，如果是放在子域名上，请提供子域名，如"http://blog.wumii.com"。如果这里填写的域名不对，请自行改正。
-    var wumiiCommentParams = "&pf=JAVASCRIPT";
-</script>
-<script src="http://widget.wumii.cn/ext/cw/widget"></script>
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2050318"></script>
+<!-- UY END -->
