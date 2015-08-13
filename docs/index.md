@@ -8,26 +8,26 @@
 
 ### 下载Chrome（Linux版）
 
- * [44.0.2403.125\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/44.0.2403.125\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
- * 44.0.2403.125\_google-chrome-stable\_current\_i386.deb （适用于 Debian/Ubuntu i386）
- * [44.0.2403.125\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/44.0.2403.125\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
- * 44.0.2403.125\_google-chrome-stable\_current\_i386.rpm（适用于 Fedora/openSUSE i386）
+ * [44.0.2403.155\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/44.0.2403.155\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
+ * 44.0.2403.155\_google-chrome-stable\_current\_i386.deb （适用于 Debian/Ubuntu i386）
+ * [44.0.2403.155\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/44.0.2403.155\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
+ * 44.0.2403.155\_google-chrome-stable\_current\_i386.rpm（适用于 Fedora/openSUSE i386）
 
 ### 下载Chrome（Mac版）
 
- * [44.0.2403.125\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/44.0.2403.125\_googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
+ * [44.0.2403.155\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/44.0.2403.155\_googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [44.0.2403.125\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/44.0.2403.125\_googlechromestandaloneenterprise64.msi) （适用于 Windows 8/7 64-bit）
- * 44.0.2403.125\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [44.0.2403.155\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/44.0.2403.155\_googlechromestandaloneenterprise64.msi) （适用于 Windows 8/7 64-bit）
+ * 44.0.2403.155\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
- * [44.0.2403.125\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/44.0.2403.125\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
- * 44.0.2403.125\_chrome\_installer.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [44.0.2403.155\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/44.0.2403.155\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
+ * 44.0.2403.155\_chrome\_installer.exe （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
