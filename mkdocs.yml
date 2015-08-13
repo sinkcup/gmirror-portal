@@ -32,7 +32,7 @@ copyright: <a title="Coding.net代码托管" href="https://coding.net/register" 
             if (cmp > 0) {
                 notice = '请升级至最新版Chrome/' + chromeLastestVersion + '</div>';
             } else if (cmp < 0) {
-                notice = '哇！比本站的版本还新，赶紧通知站长';
+                notice = '哇！比本站的版本还新，请<a href="https://github.com/sinkcup/gmirror" target="_blank">提交代码更新</a>';
             }
             $("nav.wy-nav-side").append('<div style="color:#fcfcfc">' + notice + '</div>');
         }
