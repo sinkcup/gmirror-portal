@@ -45,9 +45,9 @@ Select a specific Android Studio package for your platform.
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-studio-ide-141.1980579-linux.zip](http://dl.gmirror.org/android/studio/1.2.2.0/android-studio-ide-141.1980579-linux.zip) | 247M | 1fcb226bcf71760296b07dc0db74216563ce83f7
-Mac OS X | [android-studio-ide-141.1980579-mac.dmg](http://dl.gmirror.org/android/studio/1.2.2.0/android-studio-ide-141.1980579-mac.dmg) | 249M | 811a868958f8799a1c86a3acfab0fc5dc8de2f41
-Windows  | android-studio-ide-141.1980579-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.2.2.0/android-studio-ide-141.1980579-windows.exe) | 233M | ae09797db2537afb572a00b7eacc292bb66d539e
+Linux    | [android-studio-ide-141.2135290-linux.zip](http://dl.gmirror.org/android/studio/android-studio-ide-141.2135290-linux.zip) | 335M | 51e5f5de2b82883d87f85ee38cf7b7b8b2e7debf
+Mac OS X | [android-studio-ide-141.2135290-mac.dmg](http://dl.gmirror.org/android/studio/android-studio-ide-141.2135290-mac.dmg) | 351M | 9fc12b5657ff52c761b7e7c115feade2a9728386
+Windows  | android-studio-ide-141.2135290-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.3.1.0/android-studio-ide-141.2135290-windows.exe) | 306M | d70fb49d03db9dded19c891a92452601e39272f4
 
 ## Android NDK
 
@@ -67,13 +67,13 @@ ndk$ ./android-ndk-r10e-darwin-x86_64.bin
 
 ## VirtualBox
 
-VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0 :
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.2 :
 
- * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.0-101573~Ubuntu~trusty\_amd64.deb)
- * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.0_101573_fedora22-1.x86_64.rpm)
- * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.0-101573-OSX.dmg)
- * for Windows hosts x86/amd64 [官网下载](http://download.virtualbox.org/virtualbox/5.0.0/VirtualBox-5.0.0-101573-Win.exe)
- * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.0-101573.vbox-extpack)
+ * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0\_5.0.2-102096~Ubuntu~trusty\_amd64.deb)
+ * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.2_102096_fedora22-1.x86_64.rpm)
+ * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.2-102096-OSX.dmg)
+ * for Windows hosts x86/amd64 [官网下载](http://download.virtualbox.org/virtualbox/5.0.2/VirtualBox-5.0.2-102096-Win.exe)
+ * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.2-102096.vbox-extpack)
 
 ## JDK
 
