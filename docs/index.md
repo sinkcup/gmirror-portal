@@ -56,13 +56,6 @@ Platform | Package | Size | SHA-1 Checksum
 Linux 64-bit (x86) | [android-ndk-r10e-linux-x86\_64.bin](http://dl.gmirror.org/android/ndk/android-ndk-r10e-linux-x86\_64.bin) | 383M | 19af543b068bdb7f27787c2bc69aba7f
 Mac OS X 64-bit | [android-ndk-r10e-darwin-x86\_64.bin](http://dl.gmirror.org/android/ndk/android-ndk-r10e-darwin-x86\_64.bin) | 371M | 2cb8893a5701603519d38a7e04c50e81
 
-The NDK package is a self-extracting binary. Install On Linux and Mac OS X (Darwin):
-
-```
-ndk$ chmod a+x android-ndk-r10e-darwin-x86_64.bin
-ndk$ ./android-ndk-r10e-darwin-x86_64.bin
-```
-
 ## VirtualBox
 
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0 :
@@ -93,6 +86,20 @@ Linux x64                  | 61M       | [jre-8u51-linux-x64.tar.gz](http://dl.g
 Linux x64 RPM              | 40M       | [jre-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u51-linux-x64.rpm)
 Mac OS X x64               | 58M       | [jre-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u51-macosx-x64.dmg)
 Windows x64                | 41M       | [jre-8u51-windows-x64.exe](http://dl.gmirror.org/java/jre-8u51-windows-x64.exe)
+
+## PHP
+
+PHP is a popular general-purpose scripting language that is especially suited to web development.
+
+PHPUnit is a programmer-oriented testing framework for PHP.
+
+phpDocumentor is a tool that makes it possible to generate documentation directly from your PHP source code.
+
+Desc | Download
+-----|---------
+PHP\([php.net](http://php.net/)\)  | [php-5.6.12.tar.bz2](http://dl.gmirror.org/php/php-5.6.12.tar.bz2)
+phpunit\([phpunit.de](https://phpunit.de/)\) | [phpunit-4.8.0.phar](http://dl.gmirror.org/php/phpunit-4.8.0.phar)
+phpDocumentor\([phpdoc.org](http://phpdoc.org/)\) | [phpDocumentor-2.8.5.phar](http://dl.gmirror.org/php/phpDocumentor-2.8.5.phar)
 
 <!-- UY BEGIN -->
 <div id="uyan_frame"></div>
