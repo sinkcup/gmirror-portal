@@ -69,6 +69,22 @@ Android 5.1 – Lollipop | x86 | [gapps-5.1-x86-2015-07-17-15-08.zip](http://dl.
 Android 5.0 – Lollipop | arm | [gapps-lp-20141212-signed.zip](http://dl.gmirror.org/gapps/gapps-lp-20141212-signed.zip)
 Android 4.4 – KitKat | arm | [gapps-kk-20140606-signed.zip](http://dl.gmirror.org/gapps/gapps-kk-20140606-signed.zip)
 
+## Google Fonts 国内镜像加速
+
+把
+
+```
+https://fonts.googleapis.com/
+```
+
+替换为
+
+```
+http://fonts.gmirror.org/
+```
+
+即可。
+
 ## JDK
 
 软件开发人员：JDK (Java SE Development Kit)。面向 Java 开发人员。包括一个完整的 JRE 以及用于开发、调试和监视 Java 应用的工具。
