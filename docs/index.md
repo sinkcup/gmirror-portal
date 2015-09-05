@@ -71,6 +71,8 @@ Android 4.4 – KitKat | arm | [gapps-kk-20140606-signed.zip](http://dl.gmirror.
 
 ## Go Lang
 
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. 感谢 [mingshun](https://github.com/mingshun) 贡献代码发起 [PR](https://github.com/sinkcup/gmirror/pull/4)。
+
 File name |  OS Arch  |  Size  |  SHA1 Checksum
 ----------|-----------|--------|---------------
 [go1.5.linux-amd64.tar.gz](http://dl.gmirror.org/golang/go1.5.linux-amd64.tar.gz)  | Linux 64-bit | 74MB  |  5817fa4b2252afdb02e11e8b9dc1d9173ef3bd5a
@@ -97,23 +99,20 @@ http://fonts.gmirror.org/
 
 软件开发人员：JDK (Java SE Development Kit)。面向 Java 开发人员。包括一个完整的 JRE 以及用于开发、调试和监视 Java 应用的工具。
 
-Product / File Description | File Size | Download
----------------------------|-----------|---------
-Linux x64                  | 173M      | [jdk-8u60-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u60-linux-x64.tar.gz)
-Linux x64 RPM              | 153M      | [jdk-8u60-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u60-linux-x64.rpm)
-Mac OS X x64               | 227M      | [jdk-8u60-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u60-macosx-x64.dmg)
-Windows x64                | 186M      | [jdk-8u60-windows-x64.exe](http://dl.gmirror.org/java/jdk-8u60-windows-x64.exe)
+感谢 [孜然麻辣熊大大](https://coding.net/u/linqun) 发[冒泡评论](https://coding.net/u/sinkcup/pp/70419)提醒，Oracle可能不允许外网提供Java下载。参考：[《Java授权和分发常见问题解答》](https://www.java.com/zh_CN/download/faq/distribution.xml)
+
+Oracle 不允许 JDK 外链下载，请大家移步官网（[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)）。
 
 ## JRE
 
-在桌面上运行 Java 的最终用户：JRE：(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。
+在桌面上运行 Java 的最终用户：JRE(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。SUN 允许 JRE 外链到官网下载，如下：
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 68M       | [jre-8u60-linux-x64.tar.gz](http://dl.gmirror.org/java/jre-8u60-linux-x64.tar.gz)
-Linux x64 RPM              | 47M       | [jre-8u60-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u60-linux-x64.rpm)
-Mac OS X x64               | 60M       | [jre-8u60-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u60-macosx-x64.dmg)
-Windows x64                | 53M       | [jre-8u60-windows-x64.exe](http://dl.gmirror.org/java/jre-8u60-windows-x64.exe)
+Linux x64                  | 68M       | jre-8u60-linux-x64.tar.gz [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109700)
+Linux x64 RPM              | 47M       | jre-8u60-linux-x64.rpm [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109699)
+Mac OS X x64               | 60M       | jre-8u60-macosx-x64.dmg [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109701)
+Windows x64                | 53M       | jre-8u60-windows-x64.exe [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109708)
 
 ## PHP
 
