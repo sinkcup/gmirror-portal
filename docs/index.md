@@ -69,6 +69,14 @@ Android 5.1 – Lollipop | x86 | [gapps-5.1-x86-2015-07-17-15-08.zip](http://dl.
 Android 5.0 – Lollipop | arm | [gapps-lp-20141212-signed.zip](http://dl.gmirror.org/gapps/gapps-lp-20141212-signed.zip)
 Android 4.4 – KitKat | arm | [gapps-kk-20140606-signed.zip](http://dl.gmirror.org/gapps/gapps-kk-20140606-signed.zip)
 
+## Go Lang
+
+File name |  OS Arch  |  Size  |  SHA1 Checksum
+----------|-----------|--------|---------------
+[go1.5.linux-amd64.tar.gz](http://dl.gmirror.org/golang/go1.5.linux-amd64.tar.gz)  | Linux 64-bit | 74MB  |  5817fa4b2252afdb02e11e8b9dc1d9173ef3bd5a
+[go1.5.darwin-amd64.pkg](http://dl.gmirror.org/golang/go1.5.darwin-amd64.pkg) | OS X 64-bit | 74MB   | 0d37bb75adc6eb2ce72fc500a0584b20618abf1d
+go1.5.windows-amd64.msi [官网下载](https://storage.googleapis.com/golang/go1.5.windows-amd64.msi) | Windows 64-bit | 64MB |   ae369d86e796d767a8d536a5d78998a908a4b9e6
+
 ## Google Fonts 国内镜像加速
 
 把
