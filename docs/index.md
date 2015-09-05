@@ -91,10 +91,10 @@ http://fonts.gmirror.org/
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 165M      | [jdk-8u51-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u51-linux-x64.tar.gz)
-Linux x64 RPM              | 146M      | [jdk-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u51-linux-x64.rpm)
-Mac OS X x64               | 222M      | [jdk-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u51-macosx-x64.dmg)
-Windows x64                | 181M      | [jdk-8u51-windows-x64.exe](http://dl.gmirror.org/java/jdk-8u51-windows-x64.exe)
+Linux x64                  | 173M      | [jdk-8u60-linux-x64.tar.gz](http://dl.gmirror.org/java/jdk-8u60-linux-x64.tar.gz)
+Linux x64 RPM              | 153M      | [jdk-8u60-linux-x64.rpm](http://dl.gmirror.org/java/jdk-8u60-linux-x64.rpm)
+Mac OS X x64               | 227M      | [jdk-8u60-macosx-x64.dmg](http://dl.gmirror.org/java/jdk-8u60-macosx-x64.dmg)
+Windows x64                | 186M      | [jdk-8u60-windows-x64.exe](http://dl.gmirror.org/java/jdk-8u60-windows-x64.exe)
 
 ## JRE
 
@@ -102,10 +102,10 @@ Windows x64                | 181M      | [jdk-8u51-windows-x64.exe](http://dl.gm
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 61M       | [jre-8u51-linux-x64.tar.gz](http://dl.gmirror.org/java/jre-8u51-linux-x64.tar.gz)
-Linux x64 RPM              | 40M       | [jre-8u51-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u51-linux-x64.rpm)
-Mac OS X x64               | 58M       | [jre-8u51-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u51-macosx-x64.dmg)
-Windows x64                | 41M       | [jre-8u51-windows-x64.exe](http://dl.gmirror.org/java/jre-8u51-windows-x64.exe)
+Linux x64                  | 68M       | [jre-8u60-linux-x64.tar.gz](http://dl.gmirror.org/java/jre-8u60-linux-x64.tar.gz)
+Linux x64 RPM              | 47M       | [jre-8u60-linux-x64.rpm](http://dl.gmirror.org/java/jre-8u60-linux-x64.rpm)
+Mac OS X x64               | 60M       | [jre-8u60-macosx-x64.dmg](http://dl.gmirror.org/java/jre-8u60-macosx-x64.dmg)
+Windows x64                | 53M       | [jre-8u60-windows-x64.exe](http://dl.gmirror.org/java/jre-8u60-windows-x64.exe)
 
 ## PHP
 
