@@ -21,13 +21,13 @@
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [45.0.2454.85\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/45.0.2454.85\_googlechromestandaloneenterprise64.msi) （适用于 Windows 8/7 64-bit）
- * 45.0.2454.85\_googlechromestandaloneenterprise.msi （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [45.0.2454.85\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/45.0.2454.85\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
+ * 45.0.2454.85\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
- * [45.0.2454.85\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/45.0.2454.85\_chrome64\_installer.exe) （适用于 Windows 8/7 64-bit）
- * 45.0.2454.85\_chrome\_installer.exe [官网下载](https://dl.google.com/chrome/win/44279B03EFF4252A/45.0.2454.85_chrome_installer.exe) （适用于 Windows 8.1/8/7/Vista/XP 32-bit）
+ * [45.0.2454.85\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/45.0.2454.85\_chrome64\_installer.exe) （适用于 Windows 10/8/7 64-bit）
+ * 45.0.2454.85\_chrome\_installer.exe [官网下载](https://dl.google.com/chrome/win/44279B03EFF4252A/45.0.2454.85_chrome_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
