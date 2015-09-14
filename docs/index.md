@@ -45,8 +45,8 @@ Select a specific Android Studio package for your platform.
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-studio-ide-141.2178183-linux.zip](http://dl.gmirror.org/android/studio/android-studio-ide-141.2178183-linux.zip) | 336M | cf780413f8c8223eb348bd27c19a9c04b75eaeb2
-Mac OS X | [android-studio-ide-141.2178183-mac.dmg](http://dl.gmirror.org/android/studio/android-studio-ide-141.2178183-mac.dmg) | 351M | 75b67eb15a34a152a40e7189484ab0ebc375b877
+Linux    | [android-studio-ide-141.2178183-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.3.2.0/android-studio-ide-141.2178183-linux.zip) | 336M | cf780413f8c8223eb348bd27c19a9c04b75eaeb2
+Mac OS X | [android-studio-ide-141.2178183-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.3.2.0/android-studio-ide-141.2178183-mac.dmg) | 351M | 75b67eb15a34a152a40e7189484ab0ebc375b877
 Windows  | android-studio-ide-141.2178183-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.3.2.0/android-studio-ide-141.2178183-windows.exe) | 307M | b5d1aaa000729c03a3cf980add79d1b93121c56d
 
 ## Android NDK
@@ -99,9 +99,7 @@ http://fonts.gmirror.org/
 
 软件开发人员：JDK (Java SE Development Kit)。面向 Java 开发人员。包括一个完整的 JRE 以及用于开发、调试和监视 Java 应用的工具。
 
-感谢 [孜然麻辣熊大大](https://coding.net/u/linqun) 发[冒泡评论](https://coding.net/u/sinkcup/pp/70419)提醒，Oracle可能不允许外网提供Java下载。参考：[《Java授权和分发常见问题解答》](https://www.java.com/zh_CN/download/faq/distribution.xml)
-
-Oracle 不允许 JDK 外链下载，请大家移步官网（[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)）。
+感谢 [孜然麻辣熊大大](https://coding.net/u/linqun) 发[冒泡评论](https://coding.net/u/sinkcup/pp/70419)提醒，Oracle可能不允许外网提供Java下载，请大家移步官网（[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)）。参考：[《Java授权和分发常见问题解答》](https://www.java.com/zh_CN/download/faq/distribution.xml)。
 
 ## JRE
 
