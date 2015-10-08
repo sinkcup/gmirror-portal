@@ -41,13 +41,13 @@ Windows  | installer\_r24.3.4-windows.exe [官网下载](http://dl.google.com/an
 
 ## Android Studio
 
-Select a specific Android Studio package for your platform.
+The official Android IDE, version 1.4.0.10 :
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-studio-ide-141.2178183-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.3.2.0/android-studio-ide-141.2178183-linux.zip) | 336M | cf780413f8c8223eb348bd27c19a9c04b75eaeb2
-Mac OS X | [android-studio-ide-141.2178183-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.3.2.0/android-studio-ide-141.2178183-mac.dmg) | 351M | 75b67eb15a34a152a40e7189484ab0ebc375b877
-Windows  | android-studio-ide-141.2178183-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.3.2.0/android-studio-ide-141.2178183-windows.exe) | 307M | b5d1aaa000729c03a3cf980add79d1b93121c56d
+Linux    | android-studio-ide-141.2288178-linux.zip [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.4.0.10/android-studio-ide-141.2288178-linux.zip) | 363M | 137e3734f2e8e285bd7c1d2fae2e8548d0f164bd
+Mac OS X | android-studio-ide-141.2288178-mac.dmg [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-mac.dmg) | 348M | 27068d59d5a78717d31bdedd054082b5c50d3897
+Windows  | android-studio-ide-141.2288178-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-windows.exe) | 332M | 82d0d9c78ec23834956f941a07821be347fcb7bf
 
 ## Android NDK
 
