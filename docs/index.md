@@ -8,26 +8,26 @@
 
 ### 下载Chrome（Linux版）
 
- * [45.0.2454.93\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/45.0.2454.93\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
- * 45.0.2454.93\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
- * [45.0.2454.93\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/45.0.2454.93\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
- * 45.0.2454.93\_google-chrome-stable\_current\_i386.rpm [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.rpm) （适用于 Fedora/openSUSE i386）
+ * [45.0.2454.101\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/45.0.2454.101\_google-chrome-stable\_current\_amd64.deb) （适用于 Debian/Ubuntu amd64）
+ * 45.0.2454.101\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
+ * [45.0.2454.101\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/45.0.2454.101\_google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
+ * 45.0.2454.101\_google-chrome-stable\_current\_i386.rpm [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.rpm) （适用于 Fedora/openSUSE i386）
 
 ### 下载Chrome（Mac版）
 
- * [45.0.2454.93\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/45.0.2454.93\_googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
+ * [45.0.2454.101\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/45.0.2454.101\_googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [45.0.2454.93\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/45.0.2454.93\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
- * 45.0.2454.93\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
+ * [45.0.2454.101\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/45.0.2454.101\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
+ * 45.0.2454.101\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
- * [45.0.2454.93\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/45.0.2454.93\_chrome64\_installer.exe) （适用于 Windows 10/8/7 64-bit）
- * 45.0.2454.93\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/672BB1C93B533C53/45.0.2454.93\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
+ * [45.0.2454.101\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/45.0.2454.101\_chrome64\_installer.exe) （适用于 Windows 10/8/7 64-bit）
+ * 45.0.2454.101\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/0E8B92977CB91A99/45.0.2454.101\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
