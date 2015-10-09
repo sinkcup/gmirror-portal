@@ -45,8 +45,8 @@ The official Android IDE, version 1.4.0.10 :
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | android-studio-ide-141.2288178-linux.zip [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.4.0.10/android-studio-ide-141.2288178-linux.zip) | 363M | 137e3734f2e8e285bd7c1d2fae2e8548d0f164bd
-Mac OS X | android-studio-ide-141.2288178-mac.dmg [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-mac.dmg) | 348M | 27068d59d5a78717d31bdedd054082b5c50d3897
+Linux    | [android-studio-ide-141.2288178-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.4.0.10/android-studio-ide-141.2288178-linux.zip) [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.4.0.10/android-studio-ide-141.2288178-linux.zip) | 363M | 137e3734f2e8e285bd7c1d2fae2e8548d0f164bd
+Mac OS X | [android-studio-ide-141.2288178-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-mac.dmg) [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-mac.dmg) | 348M | 27068d59d5a78717d31bdedd054082b5c50d3897
 Windows  | android-studio-ide-141.2288178-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-windows.exe) | 332M | 82d0d9c78ec23834956f941a07821be347fcb7bf
 
 ## Android NDK
@@ -128,13 +128,13 @@ phpDocumentor\([phpdoc.org](http://phpdoc.org/)\) | [phpDocumentor-2.8.5.phar](h
 
 ## VirtualBox
 
-VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.2 :
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.6 :
 
- * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0\_5.0.2-102096~Ubuntu~trusty\_amd64.deb)
- * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.2_102096_fedora22-1.x86_64.rpm)
- * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.2-102096-OSX.dmg)
- * for Windows hosts x86/amd64 [官网下载](http://download.virtualbox.org/virtualbox/5.0.2/VirtualBox-5.0.2-102096-Win.exe)
- * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.2-102096.vbox-extpack)
+ * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0\_5.0.6-103037~Ubuntu~trusty\_amd64.deb)
+ * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.6_103037_fedora22-1.x86_64.rpm)
+ * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.6-103037-OSX.dmg)
+ * for Windows hosts x86/amd64 [官网下载](http://download.virtualbox.org/virtualbox/5.0.6/VirtualBox-5.0.6-102096-Win.exe)
+ * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.6-103037.vbox-extpack)
 
 <!-- UY BEGIN -->
 <div id="uyan_frame"></div>
