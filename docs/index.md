@@ -31,13 +31,13 @@
 
 ## Android SDK Tools Only
 
-These packages provide the basic SDK tools for app development, without an IDE.
+These packages provide the basic SDK tools for app development, without an IDE. version 24.4.1 :
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-sdk\_r24.3.4-linux.tgz](http://dl.gmirror.org/android/android-sdk\_r24.3.4-linux.tgz) | 295M | fb293d7bca42e05580be56b1adc22055d46603dd
-Mac OS X | [android-sdk\_r24.3.4-macosx.zip](http://dl.gmirror.org/android/android-sdk\_r24.3.4-macosx.zip) | 94M | 128f10fba668ea490cc94a08e505a48a608879b9
-Windows  | installer\_r24.3.4-windows.exe [官网下载](http://dl.google.com/android/installer\_r24.3.4-windows.exe) | 134M | 094dd45f98a31f839feae898b48f23704f2878dd
+Linux    | [android-sdk\_r24.4.1-linux.tgz](http://dl.gmirror.org/android/android-sdk\_r24.4.1-linux.tgz) [官网下载](http://dl.google.com/android/android-sdk\_r24.4.1-linux.tgz) | 311M | 725bb360f0f7d04eaccff5a2d57abdd49061326d
+Mac OS X | [android-sdk\_r24.4.1-macosx.zip](http://dl.gmirror.org/android/android-sdk\_r24.4.1-macosx.zip) [官网下载](http://dl.google.com/android/android-sdk\_r24.4.1-macosx.zip) | 98M | 85a9cccb0b1f9e6f1f616335c5f07107553840cd
+Windows  | installer\_r24.4.1-windows.exe [官网下载](http://dl.google.com/android/installer\_r24.4.1-windows.exe) | 145M | f9b59d72413649d31e633207e31f456443e7ea0b
 
 ## Android Studio
 
@@ -122,8 +122,8 @@ phpDocumentor is a tool that makes it possible to generate documentation directl
 
 Desc | Download
 -----|---------
-PHP\([php.net](http://php.net/)\)  | [php-5.6.12.tar.bz2](http://dl.gmirror.org/php/php-5.6.12.tar.bz2)
-phpunit\([phpunit.de](https://phpunit.de/)\) | [phpunit-4.8.0.phar](http://dl.gmirror.org/php/phpunit-4.8.0.phar)
+PHP\([php.net](http://php.net/)\)  | [php-5.6.14.tar.bz2](http://dl.gmirror.org/php/php-5.6.14.tar.bz2)
+phpunit\([phpunit.de](https://phpunit.de/)\) | [phpunit-5.0.phar](http://dl.gmirror.org/php/phpunit-5.0.phar)
 phpDocumentor\([phpdoc.org](http://phpdoc.org/)\) | [phpDocumentor-2.8.5.phar](http://dl.gmirror.org/php/phpDocumentor-2.8.5.phar)
 
 ## VirtualBox
