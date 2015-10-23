@@ -4,34 +4,34 @@
 
 ## Chrome 浏览器
 
-获取快速、免费的网络浏览器（一款适用于计算机、手机和平板电脑的浏览器）
+获取快速、免费的网络浏览器（一款适用于计算机、手机和平板电脑的浏览器）。Chrome 46.0.2490.80 下载地址如下：
 
 ### 下载Chrome（Linux版）
 
- * [46.0.2490.71\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/46.0.2490.71\_google-chrome-stable\_current\_amd64.deb) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_amd64.deb)（适用于 Debian/Ubuntu amd64）
- * 46.0.2490.71\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
- * [46.0.2490.71\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/46.0.2490.71\_google-chrome-stable\_current\_x86\_64.rpm) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
- * 46.0.2490.71\_google-chrome-stable\_current\_i386.rpm [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.rpm) （适用于 Fedora/openSUSE i386）
+ * [46.0.2490.80\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/46.0.2490.80\_google-chrome-stable\_current\_amd64.deb) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_amd64.deb)（适用于 Debian/Ubuntu amd64）
+ * 46.0.2490.80\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
+ * [46.0.2490.80\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/46.0.2490.80\_google-chrome-stable\_current\_x86\_64.rpm) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
+ * 46.0.2490.80\_google-chrome-stable\_current\_i386.rpm [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.rpm) （适用于 Fedora/openSUSE i386）
 
 ### 下载Chrome（Mac版）
 
- * [46.0.2490.71\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/46.0.2490.71\_googlechrome.dmg) [官网下载](https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
+ * [46.0.2490.80\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/46.0.2490.80\_googlechrome.dmg) [官网下载](https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [46.0.2490.71\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/46.0.2490.71\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
- * 46.0.2490.71\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
+ * [46.0.2490.80\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/46.0.2490.80\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
+ * 46.0.2490.80\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
- * [46.0.2490.71\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/46.0.2490.71\_chrome64\_installer.exe) [官网下载](http://dl.google.com/chrome/win/ED09801303323CD3/46.0.2490.71\_chrome64\_installer.exe)（适用于 Windows 10/8/7 64-bit）
- * 46.0.2490.71\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/462C8315AC5B3DDC/46.0.2490.71\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
+ * [46.0.2490.80\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/46.0.2490.80\_chrome64\_installer.exe) [官网下载](http://dl.google.com/chrome/win/91A103838A0777C6/46.0.2490.80\_chrome64\_installer.exe)（适用于 Windows 10/8/7 64-bit）
+ * 46.0.2490.80\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/443439E034162AE5/46.0.2490.80\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
-These packages provide the basic SDK tools for app development, without an IDE. version 24.4.1 :
+These packages provide the basic SDK tools for app development, without an IDE. Android SDK 24.4.1 下载地址如下：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
@@ -41,7 +41,7 @@ Windows  | installer\_r24.4.1-windows.exe [官网下载](http://dl.google.com/an
 
 ## Android Studio
 
-The official Android IDE, version 1.4.0.10 :
+The official Android IDE. Android Studio 1.4.0.10 下载地址如下：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
@@ -51,7 +51,7 @@ Windows  | android-studio-ide-141.2288178-windows.exe [官网下载](https://dl.
 
 ## Android NDK
 
-The Native Development Kit (NDK) is a set of tools that allow you to leverage C and C++ code in your Android apps.
+The Native Development Kit (NDK) is a set of tools that allow you to leverage C and C++ code in your Android apps. Android NDK r10e 下载地址如下：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
@@ -103,14 +103,14 @@ http://fonts.gmirror.org/
 
 ## JRE
 
-在桌面上运行 Java 的最终用户：JRE(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。SUN 允许 JRE 外链到官网下载，如下：
+在桌面上运行 Java 的最终用户：JRE(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。SUN 允许 JRE 外链到官网下载，JRE Version 8 Update 65 下载地址如下：
 
 Product / File Description | File Size | Download
 ---------------------------|-----------|---------
-Linux x64                  | 68M       | jre-8u60-linux-x64.tar.gz [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109700)
-Linux x64 RPM              | 47M       | jre-8u60-linux-x64.rpm [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109699)
-Mac OS X x64               | 60M       | jre-8u60-macosx-x64.dmg [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109701)
-Windows x64                | 53M       | jre-8u60-windows-x64.exe [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=109708)
+Linux x64                  | 68M       | jre-8u65-linux-x64.tar.gz [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111681)
+Linux x64 RPM              | 47M       | jre-8u60-linux-x64.rpm [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111680)
+Mac OS X x64               | 60M       | jre-8u60-macosx-x64.dmg [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111682)
+Windows x64                | 53M       | jre-8u60-windows-x64.exe [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111689)
 
 ## PHP
 
