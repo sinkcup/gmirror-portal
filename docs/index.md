@@ -128,13 +128,14 @@ phpDocumentor\([phpdoc.org](http://phpdoc.org/)\) | [phpDocumentor-2.8.5.phar](h
 
 ## VirtualBox
 
-VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.6 :
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.8 :
 
- * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0\_5.0.6-103037~Ubuntu~trusty\_amd64.deb)
- * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.6_103037_fedora22-1.x86_64.rpm)
- * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.6-103037-OSX.dmg)
- * for Windows hosts x86/amd64 [官网下载](http://download.virtualbox.org/virtualbox/5.0.6/VirtualBox-5.0.6-102096-Win.exe)
- * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.6-103037.vbox-extpack)
+ * for Linux hosts - Ubuntu 15.10 ("Wily") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.8-103449~Ubuntu~wily_amd64.deb)
+ * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.8-103449~Ubuntu~trusty_amd64.deb)
+ * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.8_103449_fedora22-1.x86_64.rpm)
+ * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.8-103449-OSX.dmg)
+ * for Windows hosts [x86/amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.8-103449-Win.exe)
+ * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.8-103449.vbox-extpack)
 
 <!-- UY BEGIN -->
 <div id="uyan_frame"></div>
