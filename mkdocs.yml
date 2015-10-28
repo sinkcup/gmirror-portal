@@ -1,7 +1,7 @@
 site_name: gmirror - 常用软件CDN镜像下载
 pages:
-- 首页: index.md
-- 关于我们: about.md
+- "首页": index.md
+- "关于我们": about.md
 theme: readthedocs
 repo_url: https://github.com/sinkcup/gmirror
 site_favicon: favicon.ico
