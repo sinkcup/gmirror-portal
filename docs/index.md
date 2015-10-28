@@ -126,6 +126,22 @@ PHP\([php.net](http://php.net/)\)  | [php-5.6.14.tar.bz2](http://dl.gmirror.org/
 phpunit\([phpunit.de](https://phpunit.de/)\) | [phpunit-5.0.phar](http://dl.gmirror.org/php/phpunit-5.0.phar)
 phpDocumentor\([phpdoc.org](http://phpdoc.org/)\) | [phpDocumentor-2.8.5.phar](http://dl.gmirror.org/php/phpDocumentor-2.8.5.phar)
 
+## Ubuntu
+
+Ubuntu is an open source software platform that runs from the cloud, to the smartphone, to all your things.
+
+### Ubuntu Desktop 桌面版
+
+File Description | File Size | Download
+-----------------|-----------|---------
+Ubuntu 15.10 64-bit | 632M | ubuntu-15.10-desktop-amd64.iso [官网下载](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso) [网易开源下载](http://mirrors.aliyun.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso)
+
+### Ubuntu Server 服务器版
+
+File Description | File Size | Download
+-----------------|-----------|---------
+Ubuntu Server 14.04.3 LTS 64-bit | 574M | ubuntu-14.04.3-server-amd64.iso [官网下载](http://releases.ubuntu.com/14.04.3/ubuntu-14.04.3-server-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso) [网易开源下载](http://mirrors.aliyun.com/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso)
+
 ## VirtualBox
 
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.8 :
