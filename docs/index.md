@@ -103,18 +103,9 @@ http://fonts.gmirror.org/
 
 ## JRE
 
-在桌面上运行 Java 的最终用户：JRE(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。SUN 允许 JRE 外链到官网下载，JRE Version 8 Update 65 下载地址如下：
-
-Product / File Description | File Size | Download
----------------------------|-----------|---------
-Linux x64                  | 68M       | jre-8u65-linux-x64.tar.gz [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111681)
-Linux x64 RPM              | 47M       | jre-8u60-linux-x64.rpm [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111680)
-Mac OS X x64               | 60M       | jre-8u60-macosx-x64.dmg [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111682)
-Windows x64                | 53M       | jre-8u60-windows-x64.exe [官网下载](http://javadl.sun.com/webapps/download/AutoDL?BundleId=111689)
+在桌面上运行 Java 的最终用户：JRE(Java Runtime Environment)。可满足大多数最终用户需要。包含在系统上运行 Java 应用所需的一切内容。JRE 官网下载页面：[http://java.com/zh\_CN/download/linux\_manual.jsp](http://java.com/zh_CN/download/linux_manual.jsp)
 
 ## PHP
-
-PHP is a popular general-purpose scripting language that is especially suited to web development.
 
 PHPUnit is a programmer-oriented testing framework for PHP.
 
@@ -122,7 +113,6 @@ phpDocumentor is a tool that makes it possible to generate documentation directl
 
 Desc | Download
 -----|---------
-PHP\([php.net](http://php.net/)\)  | [php-5.6.14.tar.bz2](http://dl.gmirror.org/php/php-5.6.14.tar.bz2)
 phpunit\([phpunit.de](https://phpunit.de/)\) | [phpunit-5.0.phar](http://dl.gmirror.org/php/phpunit-5.0.phar)
 phpDocumentor\([phpdoc.org](http://phpdoc.org/)\) | [phpDocumentor-2.8.5.phar](http://dl.gmirror.org/php/phpDocumentor-2.8.5.phar)
 
@@ -134,13 +124,13 @@ Ubuntu is an open source software platform that runs from the cloud, to the smar
 
 File Description | File Size | Download
 -----------------|-----------|---------
-Ubuntu 15.10 64-bit | 632M | ubuntu-15.10-desktop-amd64.iso [官网下载](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso) [网易开源下载](http://mirrors.aliyun.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso)
+Ubuntu 15.10 64-bit | 632M | ubuntu-15.10-desktop-amd64.iso [官网下载](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso) [网易开源下载](http://mirrors.163.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso)
 
 ### Ubuntu Server 服务器版
 
 File Description | File Size | Download
 -----------------|-----------|---------
-Ubuntu Server 14.04.3 LTS 64-bit | 574M | ubuntu-14.04.3-server-amd64.iso [官网下载](http://releases.ubuntu.com/14.04.3/ubuntu-14.04.3-server-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso) [网易开源下载](http://mirrors.aliyun.com/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso)
+Ubuntu Server 14.04.3 LTS 64-bit | 574M | ubuntu-14.04.3-server-amd64.iso [官网下载](http://releases.ubuntu.com/14.04.3/ubuntu-14.04.3-server-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso) [网易开源下载](http://mirrors.163.com/ubuntu-releases/14.04.3/ubuntu-14.04.3-server-amd64.iso)
 
 ## VirtualBox
 
