@@ -4,30 +4,30 @@
 
 ## Chrome 浏览器
 
-获取快速、免费的网络浏览器（一款适用于计算机、手机和平板电脑的浏览器）。Chrome 46.0.2490.80 下载地址如下：
+获取快速、免费的网络浏览器（一款适用于计算机、手机和平板电脑的浏览器）。Chrome 46.0.2490.86 下载地址如下：
 
 ### 下载Chrome（Linux版）
 
- * [46.0.2490.80\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/46.0.2490.80\_google-chrome-stable\_current\_amd64.deb) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_amd64.deb)（适用于 Debian/Ubuntu amd64）
- * 46.0.2490.80\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
- * [46.0.2490.80\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/46.0.2490.80\_google-chrome-stable\_current\_x86\_64.rpm) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
- * 46.0.2490.80\_google-chrome-stable\_current\_i386.rpm [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.rpm) （适用于 Fedora/openSUSE i386）
+ * [46.0.2490.86\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/46.0.2490.86\_google-chrome-stable\_current\_amd64.deb) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_amd64.deb)（适用于 Debian/Ubuntu amd64）
+ * 46.0.2490.86\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
+ * [46.0.2490.86\_google-chrome-stable\_current\_x86\_64.rpm](http://dl.gmirror.org/chrome/linux/46.0.2490.86\_google-chrome-stable\_current\_x86\_64.rpm) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_x86\_64.rpm) （适用于 Fedora/openSUSE x86\_64）
+ * 46.0.2490.86\_google-chrome-stable\_current\_i386.rpm [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.rpm) （适用于 Fedora/openSUSE i386）
 
 ### 下载Chrome（Mac版）
 
- * [46.0.2490.80\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/46.0.2490.80\_googlechrome.dmg) [官网下载](https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
+ * [46.0.2490.86\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/46.0.2490.86\_googlechrome.dmg) [官网下载](https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
 如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
 
- * [46.0.2490.80\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/46.0.2490.80\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
- * 46.0.2490.80\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
+ * [46.0.2490.86\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/46.0.2490.86\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
+ * 46.0.2490.86\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
 
- * [46.0.2490.80\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/46.0.2490.80\_chrome64\_installer.exe) [官网下载](http://dl.google.com/chrome/win/91A103838A0777C6/46.0.2490.80\_chrome64\_installer.exe)（适用于 Windows 10/8/7 64-bit）
- * 46.0.2490.80\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/443439E034162AE5/46.0.2490.80\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
+ * [46.0.2490.86\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/46.0.2490.86\_chrome64\_installer.exe) [官网下载](http://dl.google.com/chrome/win/49AEF7DFA4C1C319/46.0.2490.86\_chrome64\_installer.exe)（适用于 Windows 10/8/7 64-bit）
+ * 46.0.2490.86\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/9559FFD4C2CF2E2F/46.0.2490.86\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
@@ -41,13 +41,13 @@ Windows  | installer\_r24.4.1-windows.exe [官网下载](http://dl.google.com/an
 
 ## Android Studio
 
-The official Android IDE. Android Studio 1.4.0.10 下载地址如下：
+The official Android IDE. Android Studio 1.4.1.0 下载地址如下：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-studio-ide-141.2288178-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.4.0.10/android-studio-ide-141.2288178-linux.zip) [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.4.0.10/android-studio-ide-141.2288178-linux.zip) | 363M | 137e3734f2e8e285bd7c1d2fae2e8548d0f164bd
-Mac OS X | [android-studio-ide-141.2288178-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-mac.dmg) [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-mac.dmg) | 348M | 27068d59d5a78717d31bdedd054082b5c50d3897
-Windows  | android-studio-ide-141.2288178-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.4.0.10/android-studio-ide-141.2288178-windows.exe) | 332M | 82d0d9c78ec23834956f941a07821be347fcb7bf
+Linux    | [android-studio-ide-141.2343393-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.4.1.0/android-studio-ide-141.2343393-linux.zip) [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.4.1.0/android-studio-ide-141.2343393-linux.zip) | 363M | c38eb7afec75fe529efecd2f05500f1715e82cfe
+Mac OS X | [android-studio-ide-141.2343393-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.4.1.0/android-studio-ide-141.2343393-mac.dmg) [官网下载](https://dl.google.com/dl/android/studio/install/1.4.1.0/android-studio-ide-141.2343393-mac.dmg) | 348M | f99f7e4916b39d0248ab7278765d105a7ce342fb
+Windows  | android-studio-ide-141.2288178-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.4.1.0/android-studio-ide-141.2343393-windows.exe) | 332M | 227160920052916e538512f8ccbf49296bb2b1f2
 
 ## Android NDK
 
