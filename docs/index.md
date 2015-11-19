@@ -4,9 +4,11 @@
 
 ## Chrome 浏览器
 
-获取快速、免费的网络浏览器（一款适用于计算机、手机和平板电脑的浏览器）。Chrome 46.0.2490.86 下载地址如下：
+获取快速、免费的网络浏览器（一款适用于计算机、手机和平板电脑的浏览器）。Chrome 46.0.2490.86 下载：
 
 ### 下载Chrome（Linux版）
+
+官网：[google.cn/chrome/](http://www.google.cn/chrome/browser/desktop/index.html)
 
  * [46.0.2490.86\_google-chrome-stable\_current\_amd64.deb](http://dl.gmirror.org/chrome/linux/46.0.2490.86\_google-chrome-stable\_current\_amd64.deb) [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_amd64.deb)（适用于 Debian/Ubuntu amd64）
  * 46.0.2490.86\_google-chrome-stable\_current\_i386.deb [官网下载](https://dl.google.com/linux/direct/google-chrome-stable\_current\_i386.deb) （适用于 Debian/Ubuntu i386）
@@ -15,23 +17,25 @@
 
 ### 下载Chrome（Mac版）
 
+官网：[google.cn/chrome/](http://www.google.cn/chrome/browser/desktop/index.html)
+
  * [46.0.2490.86\_googlechrome.dmg](http://dl.gmirror.org/chrome/mac/46.0.2490.86\_googlechrome.dmg) [官网下载](https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg) （适用于 Mac OS X 10.6 或更高版本）
 
 ### 下载Chrome 浏览器的备用（离线）安装程序（适用于 Windows）
 
-如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)）。
+如果您为计算机上的所有用户帐户下载 Chrome 浏览器，请使用该安装程序：为您的组织部署和管理 Chrome。官网：[google.cn/chrome/business/browser/admin/](http://www.google.cn/intl/zh-CN/chrome/business/browser/admin/)
 
  * [46.0.2490.86\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/46.0.2490.86\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
  * 46.0.2490.86\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
-没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序（[官网](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)）。
+没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序。官网：[google.cn/chrome/business/browser/?standalone=1)](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)
 
  * [46.0.2490.86\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/46.0.2490.86\_chrome64\_installer.exe) [官网下载](http://dl.google.com/chrome/win/49AEF7DFA4C1C319/46.0.2490.86\_chrome64\_installer.exe)（适用于 Windows 10/8/7 64-bit）
  * 46.0.2490.86\_chrome\_installer.exe [官网下载](http://dl.google.com/chrome/win/9559FFD4C2CF2E2F/46.0.2490.86\_chrome\_installer.exe) （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
 ## Android SDK Tools Only
 
-These packages provide the basic SDK tools for app development, without an IDE. Android SDK 24.4.1 下载地址如下：
+These packages provide the basic SDK tools for app development, without an IDE. 官网：[developer.android.com/sdk/](http://developer.android.com/sdk/index.html#Other)。Android SDK 24.4.1 下载：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
@@ -41,7 +45,7 @@ Windows  | installer\_r24.4.1-windows.exe [官网下载](http://dl.google.com/an
 
 ## Android Studio
 
-The official Android IDE. Android Studio 1.4.1.0 下载地址如下：
+The official Android IDE. 官网：[developer.android.com/sdk/](http://developer.android.com/sdk/index.html#Other)。Android Studio 1.4.1.0 下载：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
@@ -51,7 +55,7 @@ Windows  | android-studio-ide-141.2288178-windows.exe [官网下载](https://dl.
 
 ## Android NDK
 
-The Native Development Kit (NDK) is a set of tools that allow you to leverage C and C++ code in your Android apps. Android NDK r10e 下载地址如下：
+The Native Development Kit (NDK) is a set of tools that allow you to leverage C and C++ code in your Android apps. 官网：[developer.android.com/ndk/downloads/](http://developer.android.com/ndk/downloads/index.html)。Android NDK r10e 下载：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
@@ -71,13 +75,13 @@ Android 4.4 – KitKat | arm | [gapps-kk-20140606-signed.zip](http://dl.gmirror.
 
 ## Go Lang
 
-Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. 感谢 [mingshun](https://github.com/mingshun) 贡献代码发起 [PR](https://github.com/sinkcup/gmirror/pull/4)。
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. 官网：[golang.org/dl/](https://golang.org/dl/)。感谢 [mingshun](https://github.com/mingshun) 贡献代码发起 [PR](https://github.com/sinkcup/gmirror/pull/4)。 Go语言 1.5.1 下载：
 
 File name |  OS Arch  |  Size  |  SHA1 Checksum
 ----------|-----------|--------|---------------
-[go1.5.linux-amd64.tar.gz](http://dl.gmirror.org/golang/go1.5.linux-amd64.tar.gz)  | Linux 64-bit | 74MB  |  5817fa4b2252afdb02e11e8b9dc1d9173ef3bd5a
-[go1.5.darwin-amd64.pkg](http://dl.gmirror.org/golang/go1.5.darwin-amd64.pkg) | OS X 64-bit | 74MB   | 0d37bb75adc6eb2ce72fc500a0584b20618abf1d
-go1.5.windows-amd64.msi [官网下载](https://storage.googleapis.com/golang/go1.5.windows-amd64.msi) | Windows 64-bit | 64MB |   ae369d86e796d767a8d536a5d78998a908a4b9e6
+[go1.5.1.linux-amd64.tar.gz](http://dl.gmirror.org/golang/go1.5.1.linux-amd64.tar.gz)  | Linux 64-bit | 74MB | 46eecd290d8803887dec718c691cc243f2175fe0
+[go1.5.1.darwin-amd64.pkg](http://dl.gmirror.org/golang/go1.5.1.darwin-amd64.pkg) | OS X 64-bit | 74MB   | 857b77a85ba111af1b0928a73cca52136780a75d
+go1.5.1.windows-amd64.msi [官网下载](https://storage.googleapis.com/golang/go1.5.1.windows-amd64.msi) | Windows 64-bit | 64MB | 0a439f49b546b82f85adf84a79bbf40de2b3d5ba
 
 ## Google Fonts 国内镜像加速
 
@@ -107,9 +111,9 @@ http://fonts.gmirror.org/
 
 ## PHP
 
-PHPUnit is a programmer-oriented testing framework for PHP.
+PHPUnit is a programmer-oriented testing framework for PHP. 官网：[phpunit.de/#download](http://phpunit.de/#download)
 
-phpDocumentor is a tool that makes it possible to generate documentation directly from your PHP source code.
+phpDocumentor is a tool that makes it possible to generate documentation directly from your PHP source code. 官网：[phpdoc.org](http://phpdoc.org/)
 
 Desc | Download
 -----|---------
@@ -122,11 +126,15 @@ Ubuntu is an open source software platform that runs from the cloud, to the smar
 
 ### Ubuntu Desktop 桌面版
 
+官网：[ubuntu.com/download/desktop](http://www.ubuntu.com/download/desktop)
+
 File Description | File Size | Download
 -----------------|-----------|---------
 Ubuntu 15.10 64-bit | 632M | ubuntu-15.10-desktop-amd64.iso [官网下载](http://releases.ubuntu.com/15.10/ubuntu-15.10-desktop-amd64.iso) [阿里云下载](http://mirrors.aliyun.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso) [网易开源下载](http://mirrors.163.com/ubuntu-releases/15.10/ubuntu-15.10-desktop-amd64.iso)
 
 ### Ubuntu Server 服务器版
+
+官网：[ubuntu.com/download/server](http://www.ubuntu.com/download/server)
 
 File Description | File Size | Download
 -----------------|-----------|---------
@@ -134,7 +142,7 @@ Ubuntu Server 14.04.3 LTS 64-bit | 574M | ubuntu-14.04.3-server-amd64.iso [官�
 
 ## VirtualBox
 
-VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. VirtualBox 5.0.10 :
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. 官网：[virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)。VirtualBox 5.0.10 下载：
 
  * for Linux hosts - Ubuntu 15.10 ("Wily") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061~Ubuntu~wily_amd64.deb)
  * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061~Ubuntu~trusty_amd64.deb)
