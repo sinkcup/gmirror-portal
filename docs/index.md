@@ -144,8 +144,8 @@ Ubuntu Server 14.04.3 LTS 64-bit | 574M | ubuntu-14.04.3-server-amd64.iso [官�
 
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. 官网：[virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)。VirtualBox 5.0.10 下载：
 
- * for Linux hosts - Ubuntu 15.10 ("Wily") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061~Ubuntu~wily_amd64.deb)
- * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061~Ubuntu~trusty_amd64.deb)
+ * for Linux hosts - Ubuntu 15.10 ("Wily") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061-Ubuntu-wily_amd64.deb)
+ * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061-Ubuntu-trusty_amd64.deb)
  * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.10_104061_fedora22-1.x86_64.rpm)
  * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.10-104061-OSX.dmg)
  * for Windows hosts [x86/amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.10-104061-Win.exe)
