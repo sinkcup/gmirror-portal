@@ -43,13 +43,13 @@ Windows  | installer\_r24.4.1-windows.exe [官网下载](http://dl.google.com/an
 
 ## Android Studio
 
-The official Android IDE. 官网：[developer.android.com/sdk/](http://developer.android.com/sdk/index.html#Other)。Android Studio 1.5.0.4 下载：
+The official Android IDE. 官网：[developer.android.com/sdk/](http://developer.android.com/sdk/index.html#Other)。Android Studio 1.5.1.0 下载：
 
 Platform | Package | Size | SHA-1 Checksum
 ---------|---------|------|---------------
-Linux    | [android-studio-ide-141.2422023-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.5.0.4/android-studio-ide-141.2422023-linux.zip) [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.5.0.4/android-studio-ide-141.2422023-linux.zip) | 363M | 25f3b2b67641ef72e54d2c74cc69fde059630b50
-Mac OS X | [android-studio-ide-141.2422023-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.5.0.4/android-studio-ide-141.2422023-mac.dmg) [官网下载](https://dl.google.com/dl/android/studio/install/1.5.0.4/android-studio-ide-141.2422023-mac.dmg) | 350M | 9ff98b82e85081910d35b39342127cfc9071c08a
-Windows  | android-studio-ide-141.2422023-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.5.0.4/android-studio-ide-141.2422023-windows.exe) | 335M | 41933764d0f6d232cf8c123974c80fd400f0e6ea
+Linux    | [android-studio-ide-141.2456560-linux.zip](http://dl.gmirror.org/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-linux.zip) [官网下载](https://dl.google.com/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-linux.zip) | 363M | b8460a2197abe26979d88e3b01b3c8bfd80a37db
+Mac OS X | [android-studio-ide-141.2456560-mac.dmg](http://dl.gmirror.org/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-mac.dmg) [官网下载](https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-mac.dmg) | 350M | d0807423985757195ad5ae4717d580deeba1dbd8
+Windows  | android-studio-ide-141.2456560-windows.exe [官网下载](https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-windows.exe) | 335M | 8d016b90bf04ebac6ce548b1976b0c8a4f46b5f9
 
 ## Android NDK
 
