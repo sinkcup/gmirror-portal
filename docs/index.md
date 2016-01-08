@@ -26,7 +26,7 @@
  * [47.0.2526.106\_googlechromestandaloneenterprise64.msi](http://dl.gmirror.org/chrome/win/47.0.2526.106\_googlechromestandaloneenterprise64.msi) （适用于 Windows 10/8/7 64-bit）
  * 47.0.2526.106\_googlechromestandaloneenterprise.msi （适用于 Windows 10/8/7/Vista/XP 32-bit）
 
-没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序。官网：[google.cn/chrome/business/browser/?standalone=1)](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)
+没有管理员权限？如果您只为自己的用户帐户下载 Chrome 浏览器，请使用该安装程序：用于单个用户帐户的备用安装程序。官网：[google.cn/chrome/business/browser/?standalone=1](http://www.google.cn/intl/zh-CN/chrome/business/browser/?standalone=1)
 
  * [47.0.2526.106\_chrome64\_installer.exe](http://dl.gmirror.org/chrome/win/47.0.2526.106\_chrome64\_installer.exe)（适用于 Windows 10/8/7 64-bit）
  * 47.0.2526.106\_chrome\_installer.exe（适用于 Windows 10/8/7/Vista/XP 32-bit）
@@ -140,14 +140,14 @@ Ubuntu Server 14.04.3 LTS 64-bit | 574M | ubuntu-14.04.3-server-amd64.iso [官�
 
 ## VirtualBox
 
-VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. 官网：[virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)。VirtualBox 5.0.10 下载：
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. 官网：[virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)。VirtualBox 5.0.12 下载：
 
- * for Linux hosts - Ubuntu 15.10 ("Wily") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061-Ubuntu-wily_amd64.deb)
- * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.10-104061-Ubuntu-trusty_amd64.deb)
- * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.10_104061_fedora22-1.x86_64.rpm)
- * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.10-104061-OSX.dmg)
- * for Windows hosts [x86/amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.10-104061-Win.exe)
- * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.10-104061.vbox-extpack)
+ * for Linux hosts - Ubuntu 15.10 ("Wily") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.12-104815-Ubuntu-wily_amd64.deb)
+ * for Linux hosts - Ubuntu 14.04 ("Trusty") / 14.10 ("Utopic") / 15.04 ("Vivid") [AMD64](http://dl.gmirror.org/virtualbox/virtualbox-5.0_5.0.12-104815-Ubuntu-trusty_amd64.deb)
+ * for Linux hosts - Fedora 22 [AMD64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0-5.0.12_104815_fedora22-1.x86_64.rpm)
+ * for OS X hosts [amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.12-104815-OSX.dmg)
+ * for Windows hosts [x86/amd64](http://dl.gmirror.org/virtualbox/VirtualBox-5.0.12-104815-Win.exe)
+ * VirtualBox Extension Pack  [All supported platforms](http://dl.gmirror.org/virtualbox/Oracle_VM_VirtualBox_Extension_Pack-5.0.12-104815.vbox-extpack)
 
 <!-- UY BEGIN -->
 <div id="uyan_frame"></div>
