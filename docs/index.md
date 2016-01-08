@@ -73,13 +73,13 @@ Android 4.4 – KitKat | arm | [gapps-kk-20140606-signed.zip](http://dl.gmirror.
 
 ## Go Lang
 
-Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. 官网：[golang.org/dl/](https://golang.org/dl/)。感谢 [mingshun](https://github.com/mingshun) 贡献代码发起 [PR](https://github.com/sinkcup/gmirror/pull/4)。 Go语言 1.5.1 下载：
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. 官网：[golang.org/dl/](https://golang.org/dl/)。感谢 [mingshun](https://github.com/mingshun) 贡献代码发起 [PR](https://github.com/sinkcup/gmirror/pull/4)。 Go语言 1.5.2 下载：
 
 File name |  OS Arch  |  Size  |  SHA1 Checksum
 ----------|-----------|--------|---------------
-[go1.5.1.linux-amd64.tar.gz](http://dl.gmirror.org/golang/go1.5.1.linux-amd64.tar.gz)  | Linux 64-bit | 74MB | 46eecd290d8803887dec718c691cc243f2175fe0
-[go1.5.1.darwin-amd64.pkg](http://dl.gmirror.org/golang/go1.5.1.darwin-amd64.pkg) | OS X 64-bit | 74MB   | 857b77a85ba111af1b0928a73cca52136780a75d
-go1.5.1.windows-amd64.msi [官网下载](https://storage.googleapis.com/golang/go1.5.1.windows-amd64.msi) | Windows 64-bit | 64MB | 0a439f49b546b82f85adf84a79bbf40de2b3d5ba
+[go1.5.2.linux-amd64.tar.gz](http://dl.gmirror.org/golang/go1.5.2.linux-amd64.tar.gz) [官网下载](https://storage.googleapis.com/golang/go1.5.2.linux-amd64.tar.gz)  | Linux 64-bit | 73MB | cae87ed095e8d94a81871281d35da7829bd1234e
+[go1.5.2.darwin-amd64.pkg](http://dl.gmirror.org/golang/go1.5.2.darwin-amd64.pkg) [官网下载](https://storage.googleapis.com/golang/go1.5.2.darwin-amd64.pkg) | OS X 64-bit | 73MB | 102b4e946b7bb40f0e8aa508e41340a696ead752
+go1.5.2.windows-amd64.msi [官网下载](https://storage.googleapis.com/golang/go1.5.2.windows-amd64.msi) | Windows 64-bit | 64MB | 101a612d3ce65a51459667340d1991d594f9b8e7
 
 ## Google Fonts 国内镜像加速
 
